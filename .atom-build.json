@@ -1,6 +1,6 @@
 {
   "cmd": "python contemplate_koans.py",
   "sh": true,
-  "cwd": "~/Projects/pyskills",
+  "cwd": "/Users/ops/Projects/pyskills",
   "errorMatch": "^regexp$"
 }
